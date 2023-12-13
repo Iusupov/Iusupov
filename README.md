@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Iusupov
 - 👀 I’m interested in big data analysing
 - 🌱 I’m currently learning data science
+science
 2nd try to chande text
 
 <!---
